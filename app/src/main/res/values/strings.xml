@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment_1</string>
+    <string-array name="majors_array">
+        <item>Select Your Major</item>
+        <item>Information Technology</item>
+        <item>Computer Science</item>
+        <item>Biology</item>
+        <item>Chemistry</item>
+        <item>Business</item>
+    </string-array>
+</resources>
